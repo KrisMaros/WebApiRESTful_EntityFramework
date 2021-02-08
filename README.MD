@@ -8,3 +8,5 @@
 
 • RESTful Web API returning search results from companies’ database that are
   filtered in many categories, likewise, Web API allowing to perform standard CRUD  operations
+
+• Application tested by Postman API cliet allowing to create and save simple and complex HTTP/s requests, as well as read web API responses 
